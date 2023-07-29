@@ -10,6 +10,11 @@ A chatting application that works on firebase features to work on Android device
 <ul>6)Message Reactions.</ul>
 <ul>7)Media management</ul>
 
+<h2 align="centre"> Demo: </h2>
+
+https://github.com/Nikhil-1607/ChatON/assets/77186725/3bbb08d2-d0ef-404b-9f62-0e26c118af13
+
+
 <h2 align="centre"> Tech Stack </h2>
 <h4>Android Studio</h4>
 <h4>Java</h4>
