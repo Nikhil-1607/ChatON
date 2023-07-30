@@ -12,7 +12,7 @@ A chatting application that works on firebase features to work on Android device
 
 <h2 align="centre"> APK link: </h2>
 
-<a href="https://drive.google.com/drive/folders/1oapGSaUdzeYzDuXwG72Emmj7rd8-QwtD?usp=sharing"><h4>Link</h4></a>
+<h4>https://drive.google.com/drive/folders/1oapGSaUdzeYzDuXwG72Emmj7rd8-QwtD?usp=sharing</h4>
 
 <h2 align="centre"> Demo: </h2>
 
